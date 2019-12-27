@@ -77,7 +77,7 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
 10. "If you look at a large quantity of datta long enough, a huge number of patterns will emerge - if only by chance".
 11. By random luck alone, companies that produce above-average stock returns will have plenty of things in common. But unless those factors __cause__ the stocks to outperform, they can't be used to predict future returns.
 12. Stocks do well or poorly in the future because the businesses behind them do well or poorly - nothing more, and nothing less.
-13. Graham's warning is that you must treaat speculation as veteran gamblers treat their trips to the casino:
+13. Graham's warning is that you must treat speculation as veteran gamblers treat their trips to the casino:
     1.  You must never delude yourself into thinking that you're investing when you are speculating. 
     2.  Speculating becomes mortally dangerous the moment you begin to take it seriously.
     3.  You must put strict limits on the amount you are willing to wager.
