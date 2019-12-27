@@ -25,3 +25,4 @@ The Investor and Inflation
          1. This implies TIPS are best for tax-deferred accounts like Roth and IRAs.
          2. Don't trade these as these can be volatile in the short run.
          3. 10% allocation of retirement fund keeps the money safe from the jaws of inflation.
+   3. The one question never to ask a Bureaucrat is "Why?"
