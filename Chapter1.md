@@ -66,7 +66,7 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
       2. Graham urges you to only invest only if you would be comfortable owning a stock even if you had no way of knowing its daily share price.
    3. Gambling Analogy
       1. Like casino / horserace gambling, speculating can be exciting but it's the worst imaginable way to build your wealth. That's because Wall Street, like Las Vegas or the racetrack, has calibrated the odds so that the house always prevails, in the end, against everyone who tries to beat the house at its own speculative game. 
-      2. Investing is like partaking in a unique kind of casino - one where you cannot lose in teh end, so long as you play only the rules that put the odds squarely in your favor. 
+      2. Investing is like partaking in a unique kind of casino - one where you cannot lose in the end, so long as you play only the rules that put the odds squarely in your favor. 
    4. People who invest make money for themselves; people who speculate make money for their brokers. 
    5. Wall Street downplays the durable virtues of investing and hypes the gaudy appeal of speculation.
 5. To reach your long-term financial goals, you must be sustainably and reliably right. 
