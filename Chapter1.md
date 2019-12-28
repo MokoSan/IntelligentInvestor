@@ -74,7 +74,7 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
 7. With the advent of online trading, stocks are becoming more decoupled from the companies that issued them - pure abstractions, just blips moving across a TV or computer screen. If the blips moved up, nothing else mattered.
 8. A single half-baked opinion on price could double a company's stock even as its value went entirely unexamined. 
 9. Speculative Formula are as trendy as before offering: "This is quick! This is easy! And it won't hurt a bit". 
-10. "If you look at a large quantity of datta long enough, a huge number of patterns will emerge - if only by chance".
+10. "If you look at a large quantity of data long enough, a huge number of patterns will emerge - if only by chance".
 11. By random luck alone, companies that produce above-average stock returns will have plenty of things in common. But unless those factors __cause__ the stocks to outperform, they can't be used to predict future returns.
 12. Stocks do well or poorly in the future because the businesses behind them do well or poorly - nothing more, and nothing less.
 13. Graham's warning is that you must treat speculation as veteran gamblers treat their trips to the casino:
