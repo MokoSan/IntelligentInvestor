@@ -45,4 +45,20 @@ The Defensive Investor and Common Stocks
 2. Old Turkish Proverb: "After you burn your mouth on hot milk, you blow on yogurt".
    1. The very act of the market crashing has taken a lot of risk out. 
 3. The decision to buy stocks shouldn't be influenced by how much money you would have lost a couple of years back.
-4. 
+4. When stocks are reasonable priced enough to give you good growth, then you should own them, regardless if they have significantly fallen before. 
+5. Always keep a certain amount of your portfolio in stocks.
+6. An intelligent investor should defend against not doing homework before picking stocks. 
+7. Only buy what you know. 
+8. You can outperform the experts if you use your edge by investing in companies or industries you already understand. 
+9. Finding the company to invest in is the first step, the next step is research.
+   1.  One shouldn't invest in a company without consider going through the financial statements and understanding the business value. 
+10. Insiders who get wiped out only possess the illusion of knowledge and not the real thing. Becoming more familiar with a field doesn't significantly reduce people's tendency to exaggerate how much they know about it.
+11. __Home Bias__: Sticking to something that's familiar.
+    1.  Familiarity breeds complacency. 
+    2.  Whenever we are too close to something, we take our own beliefs for granted instead of questioning them as we do when we confront something more remote. 
+    3.  The more familiar a stock is, the more it is likely to turn a defensive investor to a lazier one. 
+12. Don't be overexposed in one industry of stocks and be congnizant of the tax implications. 
+13. If hiring an outside party, you must investigate and make sure the decisions being made are sound. 
+14. The very act of refusing to be active and renouncing any ability to predict the future is going to not let you drown. 
+15. The most powerful answer by a defensive investor for all questions: "I don't know and I don't care".
+16. The knowledge of how little you can know about the future coupled with acceptance of your ignorance is the Defensive Investor's best weapon.  
