@@ -8,6 +8,7 @@ Notes from the Intelligent Investor by Benjamin Graham
 4. Chapter 3
 5. Chapter 4
 6. Chapter 5
+7. Chapter 6
 
 ## Supplementary
 Misc
