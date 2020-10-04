@@ -52,12 +52,13 @@ Notes from the chapters and commentary.
 1. No book can teach one to beat the market. Any that do proclaim are liars.
 2.  Taking a foolish risk can put you so deep in the hole that it's virtually impossible to get out.
 3.  No matter how careful you are, the prices of your investments will go down from time-to-time.
-    1.  Risk cannot therefore, be eliminated but one can manage it and getting your fears under control.
-4.  The "intelligent" part of "The Intelligent Investor" has nothing to do with IQ, however, it has to do with character.
+    1.  Risk cannot therefore, be eliminated but one can manage it and get your fears under control.
+4.  The "intelligent" part of "The Intelligent Investor" has nothing to do with IQ, however, it has to do with character. Specifically, being patient, disciplined and having an eagerness to learn.
     1.  For example, Newton let the roar of the crowd cost him $3M. 
 5.  While enthusiasm may be necessary for great accomplishments elsewhere, on Wall Street it almost invariably leads to disaster.
 6.  Dreadful losses always occur when the buyer forgets to ask "How much?".
-7.  While it seems easy to foresee which industry will grow the fastest, that foresight has no real value if most other investors are already expecting the same thing. Once the industry is "obviously the best" to invest in, the stock prices will have already risen so high that the future returns have nowhere to go but down. 
-8. The Intelligent Investor realizes that stocks become more risky, not less, as their prices rise - and less risky, not more, as their prices fall. 
+7.  Obvious prospects of physical growth in a business don't translate into obvious profits for investors.
+8.  While it seems easy to foresee which industry will grow the fastest, that foresight has no real value if most other investors are already expecting the same thing. Once the industry is "obviously the best" to invest in, the stock prices will have already risen so high that the future returns have nowhere to go but down. 
+9. The Intelligent Investor realizes that stocks become more risky, not less, as their prices rise - and less risky, not more, as their prices fall. 
    1. An Intelligent Investor dreads the bull market and welcomes the bear market.
    2. The decline in stock prices is a saner and safer time to be building wealth.

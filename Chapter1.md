@@ -44,6 +44,7 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
        1. Purchase of shares of well established investment funds as an alternative to creating his own common-stock portfolio.
        2. Might utilize the one of the common-trust funds or commingled funds operated by trust companies and banks in many states or use the services of a recognized investment-counsel firm.
        3. __Dollar Cost Averaging__: Resulting in buying when the stock price is low than when it is high. This method is an application of broader approach called "Formula Investing".
+    3. Stock and Bond portfolios where the investment of either should be between 25% and 75%.
 14. __The Aggressive Investor__:
     1.  The aggressive investor is more enterprising than the defensive one and expects to attain better overall results, however, he must first make sure that his results will not be worse.
     2.  The enterprising investor must start with a clear conception as to which courses offer reasonable changes of success and which don't.
