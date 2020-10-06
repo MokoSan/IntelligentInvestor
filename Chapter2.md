@@ -9,7 +9,8 @@ The Investor and Inflation
 5. JP Morgan was asked what will markets do next, he replied "They will fluctuate".
 6. The intelligent investor avoids gold directly because of its high storage and investment costs and finds it better to find a well diversified mutual fund specializing in stocks of precious metal based companies. The advice here is to limit the stake to 2% of your total assets.
 7. The more the investor depends on his portfolio and the income therefrom, the more necessary it is for him to guard against the unexpected and the disconcerting in this past of his life i.e. minimization of risk.
-8. Investor should be cognizant of large scale inflation. 
+8. Investor should be cognizant of large scale inflation.
+9. There is no close time connection between inflationary or deflationary conditions and the movement of common-stock earnings and prices. 
 
 ## Commentary
 1. __Money Illusion__: Inflation is very real and eats away at wealth and uninvested cash. 

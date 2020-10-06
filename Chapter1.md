@@ -64,12 +64,12 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
       2. Speculators base their standards of value upon the market price.
    2. Quotational Value
       1. For a speculator, the incessant stream of stock quotes is like oxygen; for an investor, "quotational value" matters much less. 
-      2. Graham urges you to only invest only if you would be comfortable owning a stock even if you had no way of knowing its daily share price.
+      2. Graham urges you to only invest only if you would be comfortable owning a stock even if you had no way of knowing its daily share price. "In other words, if there was no market for these shares, would I be willing to have an investment in this company on these terms?"
    3. Gambling Analogy
       1. Like casino / horserace gambling, speculating can be exciting but it's the worst imaginable way to build your wealth. That's because Wall Street, like Las Vegas or the racetrack, has calibrated the odds so that the house always prevails, in the end, against everyone who tries to beat the house at its own speculative game. 
       2. Investing is like partaking in a unique kind of casino - one where you cannot lose in the end, so long as you play only the rules that put the odds squarely in your favor. 
    4. People who invest make money for themselves; people who speculate make money for their brokers. 
-   5. Wall Street downplays the durable virtues of investing and hypes the gaudy appeal of speculation.
+   5. Wall Street perennially downplays the durable virtues of investing and hypes the gaudy appeal of speculation.
 5. To reach your long-term financial goals, you must be sustainably and reliably right. 
 6. Wall Street made online trading sound like an instant way to mint money.
 7. With the advent of online trading, stocks are becoming more decoupled from the companies that issued them - pure abstractions, just blips moving across a TV or computer screen. If the blips moved up, nothing else mattered.

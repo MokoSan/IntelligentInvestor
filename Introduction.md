@@ -7,7 +7,7 @@ Notes from the chapters and commentary.
 2. The market is a pendulum that forever swings between unsustainable optimism (which makes stocks too expensive) and unjustified pessimism (which makes them too cheap). The intelligent investor is a realist who sells to optimists and buys from pessimists.
 3. The future value of every investment is a function of its present price. The higher the price you pay, the lower your return will be. 
 4. No matter how careful you are, the one risk no investor can ever eliminate is the risk of being wrong. Only by insisting on what Graham called the __"Margin of Safety"__ - never overpaying, no matter how exciting an investment seems to be - can you minimize your odds of error. 
-5. The secret of your financial success is inside yourself. In the end your investments behave is much less important than how you behave. 
+5. The secret of your financial success is inside yourself. In the end, how your investments behave is much less important than how you behave. 
 
 ## Introduction: What This Book Expects to Accomplish 
 ### Chapter
