@@ -7,13 +7,14 @@ The Investor and Inflation
 3. The expectation is that with stock investments, the dividend and price improvements offset the increase in inflation. 
 4. There is a definite lack of certainty regarding the expectation mentioned in 3 i.e. it's not always a good idea to not have some amount of capital invested in only stocks or bonds but a combination of both.
 5. JP Morgan was asked what will markets do next, he replied "They will fluctuate".
-6. The intelligent investor avoids gold directly because of its high storage and investment costs and finds it better to find a well diversified mutual fund specializing in stocks of precious metal based companies. The advice here is to limit the stake to 2% of your total assets.
+6. The intelligent investor avoids gold directly because of its high storage and investment costs and finds it better to find a well diversified mutual fund specializing in stocks of precious metal based companies. The advice here is to limit the stake to 2% of your total assets. This way the loss doesn't affect the portfolio value significantly and when gold does well, historically, it is known that the returns are spectacular.
 7. The more the investor depends on his portfolio and the income therefrom, the more necessary it is for him to guard against the unexpected and the disconcerting in this past of his life i.e. minimization of risk.
 8. Investor should be cognizant of large scale inflation.
 9. There is no close time connection between inflationary or deflationary conditions and the movement of common-stock earnings and prices. 
+10. Actual real estate can hedge one's bets against inflation, however, it is often beset with other challenges.
 
 ## Commentary
-1. __Money Illusion__: Inflation is very real and eats away at wealth and uninvested cash. 
+1. __Money Illusion__: Inflation is very real and eats away at wealth and uninvested cash. It is easy to overlook it as it is our natural inclination to look at the nominal rates vs. the inflation adjusted ones. 
 2. It is important to measure wealth not only by how much you make but also by how much you keep after inflation.
 3. The intelligent investor must guard against whatever is unexpected and underestimated.
 4. 2 Other Defenses Against Inflation vs. Just Stock
@@ -27,3 +28,4 @@ The Investor and Inflation
          2. Don't trade these as these can be volatile in the short run.
          3. 10% allocation of retirement fund keeps the money safe from the jaws of inflation.
    3. The one question never to ask a Bureaucrat is "Why?"
+5. In the time of deflation, it is better to be a lender than a borrower that is why most investors should keep at least a small portion of their assets in bonds as a form of insurance against deflating prices.
