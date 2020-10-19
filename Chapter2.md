@@ -3,7 +3,7 @@ The Investor and Inflation
 
 ## Chapter
 1. Shrinkage in the purchasing power of a dollar or worth of a dollar in the future compared to today is what investors should be cognizant of i.e. inflation.
-2. Bonds are suspectible to inflation as they offer a fixed income and therefore stocks prove to be an obvious winner here. 
+2. Bonds are susceptible to inflation as they offer a fixed income and therefore stocks prove to be an obvious winner here. 
 3. The expectation is that with stock investments, the dividend and price improvements offset the increase in inflation. 
 4. There is a definite lack of certainty regarding the expectation mentioned in 3 i.e. it's not always a good idea to not have some amount of capital invested in only stocks or bonds but a combination of both.
 5. JP Morgan was asked what will markets do next, he replied "They will fluctuate".

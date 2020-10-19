@@ -8,8 +8,8 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
 3. Speculation is neither illegal, immoral, nor fattening to the pocketbook. Some speculation is necessary and unavoidable. Speculation should be intelligently executed. 
 4. Unintelligent speculation comprises of:
    1. Speculating when you think you are investing. 
-      1. Not being clear as to what you are doing can result in losses.
-   2. Speculating seriously instead of as a pasttime, when you lack proper knowledge and skill for it. 
+      1t that is why most investors should keep at least a small portion of their assets in bonds as a form of insurance against deflating prices.. Not being clear as to what you are doing can result in losses.
+   2. Speculating seriously instead of as a past-time, when you lack proper knowledge and skill for it. 
    3. Risking more money in speculation than you can afford to lose. 
 5. In conservative view, any non-professional who operates on a margin should recognize he / she is speculating.  
    1. Margin account lets you buy stocks with money you borrow from a brokerage firm. The collateral for the loan from the brokerage company is the value of the investments in your account.
@@ -31,8 +31,8 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
         3.  Long Term Selectivity: The emphasis that long term continued growth will persist in the future, as well.
     2.  There are negative connotations associated with all 3.
         1.  Stock Trading = Speculating.
-        2.  Both Short and Long Term Selectivity are suspectible to 2 main problems:
-            1.  __Human falliability__: Being straight up wrong about the conviction i.e. outright error in prediction.
+        2.  Both Short and Long Term Selectivity are susceptible to 2 main problems:
+            1.  __Human fallibility__: Being straight up wrong about the conviction i.e. outright error in prediction.
             2.  __Nature of Competition__: If right, the markets would have already adjusted. 
     3.  The conclusion of the pitfalls is that to enjoy reasonable chance for continued better than average results, the investor must follow policies:
         1.  Inherently sound
@@ -66,7 +66,7 @@ Investment versus Speculation: Results to Be Expected by the Intelligent Investo
       1. For a speculator, the incessant stream of stock quotes is like oxygen; for an investor, "quotational value" matters much less. 
       2. Graham urges you to only invest only if you would be comfortable owning a stock even if you had no way of knowing its daily share price. "In other words, if there was no market for these shares, would I be willing to have an investment in this company on these terms?"
    3. Gambling Analogy
-      1. Like casino / horserace gambling, speculating can be exciting but it's the worst imaginable way to build your wealth. That's because Wall Street, like Las Vegas or the racetrack, has calibrated the odds so that the house always prevails, in the end, against everyone who tries to beat the house at its own speculative game. 
+      1. Like casino / horse-race gambling, speculating can be exciting but it's the worst imaginable way to build your wealth. That's because Wall Street, like Las Vegas or the racetrack, has calibrated the odds so that the house always prevails, in the end, against everyone who tries to beat the house at its own speculative game. 
       2. Investing is like partaking in a unique kind of casino - one where you cannot lose in the end, so long as you play only the rules that put the odds squarely in your favor. 
    4. People who invest make money for themselves; people who speculate make money for their brokers. 
    5. Wall Street perennially downplays the durable virtues of investing and hypes the gaudy appeal of speculation.
