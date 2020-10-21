@@ -34,7 +34,7 @@ A Century of Stock Market History
 6. Focusing on optimistic results of the market, Graham warns that it could lead to "a quite illogical and dangerous conclusion that equally marvelous results could be expected from common stocks in the future".
 7. Even though investors know to buy low and sell high, they often mess this up. 
 8. Graham's Warning is simple by __Rule of Opposites__: "The more enthusiastic investors become about the stock market in the long run, the more certain they are proved wrong in the short run".
-9.  Considering how calamitously wrong market pundits have been in the past, why on Earth should the intelligent investor believe in them now.
+9.  Considering how calamitously wrong market pundits have been in the past, why on Earth should the intelligent investor believe in them now?
 10. The stock market's performance depends on:
     1.  __Real Growth__: Rise in a company's dividends and earnings.
     2.  __Inflationary Growth__: The general rise of prices throughout the economy. 
@@ -44,7 +44,6 @@ A Century of Stock Market History
 13. __The Law of Financial Markets__: The only undisputable truth that the past has taught us is that the future will surprise us - always!
 14. Markets will brutally surprise the very people who are most certain that their views about the future are right.
 15. Staying humble about your forecasting powers, as Graham did, will keep you from risking too much on a view of the future that may as well turn out to be wrong. 
-16. You should lower your expectation - but not to depress your spirit. 
-17. For the intelligent investor, hope always springs eternal, because it should. 
-18. In the financial markets, the worse the future looks, the better it turns out to be. 
-19. "Blessed is he who expecteth nothing, for he shall enjoy everything".
+16. You should lower your expectation - but not to depress your spirit for the intelligent investor, hope always springs eternal, because it should.
+17. In the financial markets, the worse the future looks, the better it turns out to be.
+18. "Blessed is he who expecteth nothing, for he shall enjoy everything".
